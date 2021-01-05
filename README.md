@@ -1,4 +1,11 @@
-# Hello WorLd
+# Hello WorLd, I' Am Otávio Joaquim!
+
+![stats](https://github-readme-stats.vercel.app/api?username=OtavioTavares&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+
+
+[![Linkedin Badge](https://komarev.com/ghpvc/?username=OtavioTavares)](https://github.com/OtavioTavares)
+
 
 [![Linkedin Badge](https://camo.githubusercontent.com/41572a67e4b70e0af189c3071d83132626b5feba50dc8717beed5bdb144fc6fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6a6a65616e2d6a61637175657331302f)](https://github.com/OtavioTavares)
 [![Github Badge](https://camo.githubusercontent.com/8e9878bd9e523af3ee15fc8722621299eaed086fd70a77e938efc0cd5d7a4f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3234324132443f7374796c653d666c6174266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f6a6a65616e6a61637175657331302f)](https://www.linkedin.com/in/otavio-joaquim-tavares)
@@ -13,11 +20,4 @@ I am excited about artificial intelligence and software development.
 ![HTML Badge](https://camo.githubusercontent.com/70b3f3817bf5e9d353bb57985f6d77d210bef1d095ceed1aa887cda178248c32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6666306430303f7374796c653d666c6174266c6f676f436f6c6f723d7768697465266c6f676f3d68746d6c35)
 ![CSS Badge](https://camo.githubusercontent.com/912f44767e658acf1fb09d4e2eeb08ce5df6b176d9244178396ed4a68dcfcbc9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3139366566663f7374796c653d666c6174266c6f676f436f6c6f723d7768697465266c6f676f3d63737333)
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioTavares&hide=html,TSQL,CSS&layout=compact&count_private=true&langs_count=8" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=OtavioTavares&show_icons=true&count_private=true" /></td>
-    </tr>   
-  </table>
-</center>
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioTavares&hide=javascript,html&theme=radical&layout=compact)
