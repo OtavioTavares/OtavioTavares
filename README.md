@@ -12,3 +12,12 @@ I am excited about artificial intelligence and software development.
 ![Javascript Badge](https://camo.githubusercontent.com/167c191171833468d8d15c6f253aaa05661bad501a06fb38cc7cb0ad4ef5848e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6666646431393f7374796c653d666c6174266c6f676f436f6c6f723d7768697465266c6f676f3d6a617661736372697074)
 ![HTML Badge](https://camo.githubusercontent.com/70b3f3817bf5e9d353bb57985f6d77d210bef1d095ceed1aa887cda178248c32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6666306430303f7374796c653d666c6174266c6f676f436f6c6f723d7768697465266c6f676f3d68746d6c35)
 ![CSS Badge](https://camo.githubusercontent.com/912f44767e658acf1fb09d4e2eeb08ce5df6b176d9244178396ed4a68dcfcbc9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3139366566663f7374796c653d666c6174266c6f676f436f6c6f723d7768697465266c6f676f3d63737333)
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioTavares&hide=html,TSQL,CSS&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=OtavioTavares&show_icons=true&count_private=true" /></td>
+    </tr>   
+  </table>
+</center>
